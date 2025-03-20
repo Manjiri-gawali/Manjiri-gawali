@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi 👋, I'm Manjiri Gawali</h1>
+<h1 align="left">Hi , I'm Manjiri Gawali</h1>
 <h3 align="left">Learning Web Development, Student at Vit Bhopal</h3>
 
 <!-- <img  align="center" width="800" src="https://wallpaperaccess.com/full/667742.jpg" alt=""> -->
@@ -17,7 +17,7 @@
 
 <!-- - 🔭 I’m currently working on [OPENCHAT-APP-MERN](https://github.com/sarveshbhoyar22/OPENCHAT-APP-MERN) -->
 
-- 🌱 I’m currently **Focusing on my Web Development and Problem Solving Skills.**
+-  I’m currently **Focusing on my Web Development and Problem Solving Skills.**
 
 <!-- - 📝 I regularly write articles on [https://www.linkedin.com/newsletters/7054860024942125056/](https://www.linkedin.com/newsletters/7054860024942125056/) -->
 
